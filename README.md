@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaizeenn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizeenn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaizeenn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaizeenn&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -73,16 +73,16 @@
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/kaizeenn/financial-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaizeenn&repo=financial-app&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=financial-app&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/kaizeenn/smart_plant_monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaizeenn&repo=smart_plant_monitor&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=smart_plant_monitor&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/kaizeenn/PeringatanBanjir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaizeenn&repo=PeringatanBanjir&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=PeringatanBanjir&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/kaizeenn/organization-financial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaizeenn&repo=organization-financial&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=organization-financial&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
