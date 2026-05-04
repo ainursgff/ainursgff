@@ -23,14 +23,6 @@
 
 ---
 
-## 🕹️ Pixel Zone
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRlaXlyd2x2b2ZxNnkyZm11OGF6Zm4xenVwdzVqMzF3MTRjZ2NhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" height="120" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV3Y2hmdHE2b3UyN2c4ZXV4Y2k5ZGZ2dTR2OHczMnl6a2tmdnhoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" height="120" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF0YXc4M2czc2QzazFqOWZ0M3diN2x6aDZ2eW8wM3h3NGd6dW5jZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAnEC88LccN7a/giphy.gif" height="120" />
-</div>
-
----
 
 ## ⚡ Tech Arsenal
 <div align="center">
