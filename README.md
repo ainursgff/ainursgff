@@ -73,16 +73,16 @@
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/kaizeenn/financial-app">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=financial-app&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/kaizeenn/financial-app.svg" />
   </a>
   <a href="https://github.com/kaizeenn/smart_plant_monitor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=smart_plant_monitor&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/kaizeenn/smart_plant_monitor.svg" />
   </a>
   <a href="https://github.com/kaizeenn/PeringatanBanjir">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=PeringatanBanjir&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/kaizeenn/PeringatanBanjir.svg" />
   </a>
   <a href="https://github.com/kaizeenn/organization-financial">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kaizeenn&repo=organization-financial&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/kaizeenn/organization-financial.svg" />
   </a>
 </div>
 
