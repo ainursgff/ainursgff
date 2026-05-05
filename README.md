@@ -1,108 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Khairil&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20System%20Engineer&descAlignY=58&animation=twinkling" width="100%" />
+# Khairil
+full stack dev • automation • system engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Khairil+%F0%9F%91%8B;Full+Stack+Developer;Automation+%7C+API+Integration+%7C+Linux+%2F+CLI;Build+Clean%2C+Scalable%2C+Production-Ready+Systems" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kaizeenn&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kaizeenn?style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers" />
-  <img src="https://img.shields.io/github/stars/kaizeenn?affiliations=OWNER&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="stars" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=kaizeenn&style=flat-square&color=0f172a)](https://github.com/kaizeenn)
+[![GitHub followers](https://img.shields.io/github/followers/kaizeenn?style=flat-square)](https://github.com/kaizeenn?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/kaizeenn?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)](https://github.com/kaizeenn)
 
 </div>
 
 ---
 
-## 🧠 About Me
-- 👨‍💻 **Name:** Khairil
-- 🚀 **Role:** Full Stack Developer
-- 🛠️ **Focus:** Web Apps, APIs, Automation, System Engineering
-- 🧩 **Style:** Clean architecture, modular code, practical deployment
-- 📫 **Email:** **khairil0153@gmail.com**
+I build apps and automate repetitive work so things run cleaner and faster.
+Mostly web + backend, with practical Linux/CLI workflows.
 
----
+Lately I’ve been focusing on:
+- API integration
+- automation scripts
+- maintainable full stack architecture
 
+## stack
 
-## ⚡ Tech Arsenal
+`TypeScript` `JavaScript` `Python` `PHP` `HTML/CSS` `Express` `React` `Next.js` `Laravel` `MySQL` `PostgreSQL` `Docker` `Linux`
+
+## stats
+
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776ab)
-![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777bb4)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=ff2d20)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479a1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=fcc624)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f05032)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaizeenn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaizeenn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaizeenn&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaizeenn&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=kaizeenn&theme=tokyonight&hide_border=true" />
+  <a href="mailto:khairil0153@gmail.com">khairil0153@gmail.com</a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaizeenn&bg_color=0f172a&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
-## 🐍 Contribution Snake (animated)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaizeenn/kaizeenn/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</div>
-
----
-
-## 🌟 Featured Projects
-<div align="center">
-  <a href="https://github.com/kaizeenn/financial-app">
-    <img src="https://gh-card.dev/repos/kaizeenn/financial-app.svg" />
-  </a>
-  <a href="https://github.com/kaizeenn/smart_plant_monitor">
-    <img src="https://gh-card.dev/repos/kaizeenn/smart_plant_monitor.svg" />
-  </a>
-  <a href="https://github.com/kaizeenn/PeringatanBanjir">
-    <img src="https://gh-card.dev/repos/kaizeenn/PeringatanBanjir.svg" />
-  </a>
-  <a href="https://github.com/kaizeenn/organization-financial">
-    <img src="https://gh-card.dev/repos/kaizeenn/organization-financial.svg" />
-  </a>
-</div>
-
----
-
-## 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaizeenn&theme=algolia&no-frame=true&margin-w=8&margin-h=8" />
-</div>
-
----
-
-## 🤝 Connect
-<div align="center">
-  <a href="mailto:khairil0153@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" />
-  </a>
-  <a href="https://github.com/kaizeenn">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1e293b,100:0ea5e9" width="100%" />
