@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ainursgff&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ainursgff?style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ainursgff?affiliations=OWNER&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="stars" />
+  <img src="https://img.shields.io/github/stars/ainursgff?affiliations=OWNER&style=for-the-badge&color=0ea5e9&labelColor=0f172a&cacheSeconds=1800" alt="stars" />
 </p>
 
 </div>
@@ -62,12 +62,12 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ainursgff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ainursgff&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ainursgff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ainursgff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=ainursgff&theme=tokyonight&hide_border=true" />
+  <img height="190" src="https://streak-stats.demolab.com?user=ainursgff&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
