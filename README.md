@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Ainur&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Mobile,%20Web%20Developer%20and%20Data%20Analyst&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1c1917,100:ea580c&text=Ainur&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Mobile,%20Web%20Developer%20and%20Data%20Analyst&descAlignY=58&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Ainur+%F0%9F%91%8B;Mobile+SDK%3A+Flutter+and+Dart;Web+Developer%3A+Node.js%2C+PHP%2FLaravel%2C+React;Data+Analyst%3A+Python%2C+Pandas%2C+MySQL;Crafting+Pixel-Perfect+and+Optimized+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=ea580c&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Ainur+%F0%9F%91%8B;Mobile+SDK%3A+Flutter+and+Dart;Web+Developer%3A+Node.js%2C+PHP%2FLaravel%2C+React;Data+Analyst%3A+Python%2C+Pandas%2C+MySQL;Crafting+Pixel-Perfect+and+Optimized+Apps" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ainursgff&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ainursgff?style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ainursgff?affiliations=OWNER&style=for-the-badge&color=0ea5e9&labelColor=0f172a&cacheSeconds=1800" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=ainursgff&label=Profile%20Views&color=ea580c&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ainursgff?style=for-the-badge&color=ea580c&labelColor=1c1917" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ainursgff?affiliations=OWNER&style=for-the-badge&color=ea580c&labelColor=1c1917&cacheSeconds=1800" alt="stars" />
 </p>
 
 </div>
@@ -62,16 +62,16 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ainursgff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ainursgff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ainursgff&show_icons=true&bg_color=0f172a&title_color=ea580c&icon_color=ea580c&text_color=cbd5e1&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ainursgff&layout=compact&bg_color=0f172a&title_color=ea580c&icon_color=ea580c&text_color=cbd5e1&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=ainursgff&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="190" src="https://streak-stats.demolab.com?user=ainursgff&background=0f172a&ring=ea580c&fire=ea580c&currStreakNum=ea580c&sideNums=cbd5e1&sideLabels=cbd5e1&dates=94a3b8&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainursgff&bg_color=0f172a&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainursgff&bg_color=0f172a&color=ea580c&line=ea580c&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -86,16 +86,16 @@
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/ainursgff/Mobile.Plant.IOT.Tumbuhan">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Mobile.Plant.IOT.Tumbuhan&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Mobile.Plant.IOT.Tumbuhan&bg_color=0f172a&title_color=ea580c&icon_color=ea580c&text_color=cbd5e1&hide_border=true" />
   </a>
   <a href="https://github.com/ainursgff/Mobile.TambakUdang-PENGMAS-">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Mobile.TambakUdang-PENGMAS-&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Mobile.TambakUdang-PENGMAS-&bg_color=0f172a&title_color=ea580c&icon_color=ea580c&text_color=cbd5e1&hide_border=true" />
   </a>
   <a href="https://github.com/ainursgff/Web.TambakUdang-PENGMAS-">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Web.TambakUdang-PENGMAS-&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Web.TambakUdang-PENGMAS-&bg_color=0f172a&title_color=ea580c&icon_color=ea580c&text_color=cbd5e1&hide_border=true" />
   </a>
   <a href="https://github.com/ainursgff/Reservasi-Lapangan-Olahraga">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Reservasi-Lapangan-Olahraga&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Reservasi-Lapangan-Olahraga&bg_color=0f172a&title_color=ea580c&icon_color=ea580c&text_color=cbd5e1&hide_border=true" />
   </a>
 </div>
 
@@ -103,7 +103,7 @@
 
 ## 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ainursgff&theme=algolia&no-frame=true&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ainursgff&theme=orange&no-frame=true&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -111,11 +111,11 @@
 ## 🤝 Connect
 <div align="center">
   <a href="mailto:ainurtaufikurrahman090405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+    <img src="https://img.shields.io/badge/Gmail-ea580c?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
   <a href="https://github.com/ainursgff">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/GitHub-ea580c?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1e293b,100:0ea5e9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:1c1917,100:ea580c" width="100%" />
