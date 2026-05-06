@@ -117,6 +117,48 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <!-- This snake animation will generate and render beautifully once GitHub Actions completes its first run on the output branch! -->
+  <img src="https://raw.githubusercontent.com/ainursgff/tamplate.Profil/output/github-contribution-grid-snake-dark.svg" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.35);" />
+</div>
+
+---
+
+## 🌟 Featured Engineering Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/ainursgff/Mobile.Plant.IOT.Tumbuhan">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Mobile.Plant.IOT.Tumbuhan&bg_color=09090b&title_color=34d399&text_color=cbd5e1&icon_color=10b981&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ainursgff/Web.TambakUdang-PENGMAS-">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Web.TambakUdang-PENGMAS-&bg_color=09090b&title_color=34d399&text_color=cbd5e1&icon_color=10b981&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ainursgff/Reservasi-Lapangan-Olahraga">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Reservasi-Lapangan-Olahraga&bg_color=09090b&title_color=34d399&text_color=cbd5e1&icon_color=10b981&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ainursgff/Express.-Sistem-Pendukung-Keputusan">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ainursgff&repo=Express.-Sistem-Pendukung-Keputusan&bg_color=09090b&title_color=34d399&text_color=cbd5e1&icon_color=10b981&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🏆 My Badges & Achievements
 
 <div align="center">
