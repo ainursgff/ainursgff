@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Ainur&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Mobile%20and%20Web%20Developer%20%7C%20Informatics%20Engineering&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Ainur&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Mobile,%20Web%20Developer%20and%20Data%20Analyst&descAlignY=58&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Ainur+%F0%9F%91%8B;Mobile+SDK%3A+Flutter+and+Dart;Web+Developer%3A+Node.js%2C+PHP%2FLaravel%2C+React;Crafting+Pixel-Perfect+and+Optimized+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Ainur+%F0%9F%91%8B;Mobile+SDK%3A+Flutter+and+Dart;Web+Developer%3A+Node.js%2C+PHP%2FLaravel%2C+React;Data+Analyst%3A+Python%2C+Pandas%2C+MySQL;Crafting+Pixel-Perfect+and+Optimized+Apps" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ainursgff&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
@@ -18,8 +18,8 @@
 - 👨‍💻 **Name:** Ainur Taufikur Rahman
 - 🏫 **Institution:** Politeknik Elektronika Negeri Surabaya (PENS)
 - 📚 **Major:** D3 Informatics Engineering
-- 🚀 **Role:** Mobile & Web Developer
-- 🛠️ **Focus:** Flutter, Node.js, PHP/Laravel, Responsive UI
+- 🚀 **Role:** Mobile, Web Developer & Data Analyst
+- 🛠️ **Focus:** Flutter, Node.js, PHP/Laravel, Data Analysis (Python)
 - 🧩 **Style:** Clean architecture, pixel-perfect UX, optimized performance
 - 💡 **Philosophy:** *"Coding is the art of turning creative logic into seamless user experiences. Every pixel, every line of code, matters."*
 - 📫 **Email:** **ainurtaufikurrahman090405@gmail.com**
@@ -46,6 +46,8 @@
 ![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777bb4)
 ![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=ff2d20)
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776ab)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243)
 
 <!-- Database & Cloud / DevOps -->
 ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479a1)
