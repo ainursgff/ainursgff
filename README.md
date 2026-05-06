@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Ainur&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer%20%7C%20Informatics%20Engineering&descAlignY=58&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0ea5e9&text=Ainur&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Mobile%20and%20Web%20Developer%20%7C%20Informatics%20Engineering&descAlignY=58&animation=twinkling" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Ainur+Taufikur+👋;Mobile+SDK%3A+Flutter+%26+Dart;Web+Developer%3A+Node.js%2C+PHP%2FLaravel%2C+React;Crafting+Pixel-Perfect+and+Optimized+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=920&height=55&lines=Hi+there%2C+I%27m+Ainur+%F0%9F%91%8B;Mobile+SDK%3A+Flutter+and+Dart;Web+Developer%3A+Node.js%2C+PHP%2FLaravel%2C+React;Crafting+Pixel-Perfect+and+Optimized+Apps" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ainursgff&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="profile views" />
