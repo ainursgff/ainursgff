@@ -28,7 +28,6 @@
       <ul>
         <li>🏫 <b>Institution:</b> Politeknik Elektronika Negeri Surabaya (PENS)</li>
         <li>📚 <b>Major:</b> D3 Informatics Engineering</li>
-        <li>⚡ <b>NRP:</b> 3124522017</li>
         <li>📍 <b>Location:</b> Surabaya, Indonesia</li>
       </ul>
     </td>
