@@ -22,7 +22,6 @@
 - 🛠️ **Focus:** Flutter, Node.js, PHP/Laravel, Data Analysis (Python)
 - 🧩 **Style:** Clean architecture, pixel-perfect UX, optimized performance
 - 💡 **Philosophy:** *"Coding is the art of turning creative logic into seamless user experiences. Every pixel, every line of code, matters."*
-- 📫 **Email:** **ainurtaufikurrahman090405@gmail.com**
 
 ---
 
