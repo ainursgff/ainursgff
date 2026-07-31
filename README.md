@@ -17,7 +17,7 @@
 ## 🧠 About Me
 - 👨‍💻 **Name:** Ainur Taufikur Rahman
 - 🏫 **Institution:** Politeknik Elektronika Negeri Surabaya (PENS)
-- 📚 **Major:** D3 Informatics Engineering
+- 📚 **Major:** Informatics Engineering
 - 🚀 **Role:** Mobile, Web Developer & Data Analyst
 - 🛠️ **Focus:** Flutter, Node.js, PHP/Laravel, Data Analysis (Python)
 - 🧩 **Style:** Clean architecture, pixel-perfect UX, optimized performance
